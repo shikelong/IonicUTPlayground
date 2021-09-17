@@ -1,0 +1,7 @@
+{
+  "name": "UTPlayground",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
